@@ -1,5 +1,3 @@
----
-```markdown
 # 🌾 DhartiKrishi-Sahayata  
 ### *AI-Powered Credit Assessment for Tenant Farmers & Sharecroppers*
 
@@ -110,8 +108,3 @@ If you believe in **AI for Financial Inclusion**,
 ### 🔖 Tags  
 
 `#AIForGood #AgriTech #FinTech #FinancialInclusion #SatelliteAI #NABARDHackathon #DhartiKrishiSahayata`
-```
-
----
-
-Would you like me to now **add tech badges** (Python · FastAPI · React · AWS · MLflow · XGBoost · Flutter) and a **banner image section** at the top for a complete startup-style GitHub README look?
