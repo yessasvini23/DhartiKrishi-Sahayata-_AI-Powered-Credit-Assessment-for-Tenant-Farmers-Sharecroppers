@@ -62,6 +62,7 @@ E --> F[Lender Dashboard]
 F --> G[Loan Management Service (UPI Disbursement)]
 G --> H[Monitoring & Alert Layer (NDVI + Weather)]
 
+
 ⚙️ Tech Stack
 AI / ML → PyTorch, XGBoost, Scikit-learn, SHAP, MLflow
 Backend → FastAPI, Celery, GraphQL
@@ -76,6 +77,7 @@ Stakeholder	Benefit
 🏦 Lenders	Data-backed risk assessment, lower NPAs
 🏛️ Government	Financial inclusion & improved agri productivity
 
+
 🧮 Roadmap
 Phase	Milestone
 ✅ MVP	Core TCS scoring + Dashboard
@@ -88,13 +90,16 @@ Phase	Milestone
 📍 Hyderabad, India
 📧 yessasvini.s@gmail.com
 
+
 📜 License
 MIT License © 2025
 Developed with 💚 for India’s farmers.
 
+
 ⭐ Support Our Mission
 If you believe in AI for Financial Inclusion,
 🌾 Star this repo and help make every farmer visible.
+
 
 🔖 Tags
 #AIForGood #AgriTech #FinTech #FinancialInclusion #SatelliteAI #NABARDHackathon #DhartiKrishiSahayata
